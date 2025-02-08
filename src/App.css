@@ -1,0 +1,26 @@
+#all{
+  background-color: #F2F4F7;
+}
+#h{
+  width: 50px;
+  color: black;
+}
+#r{
+  width: 50px;
+  color: black;
+}
+#btn{
+  background-color: #36A420;
+  margin-bottom: 1em;
+}
+button{
+  height: 3em;
+}
+img{
+  width: 10em;
+  height: 9em;
+}
+/* #jol{
+  max-width: 3em;
+  height: 2em;
+} */
