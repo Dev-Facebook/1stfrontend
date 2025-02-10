@@ -38,7 +38,7 @@ const Alogin = () => {
             .post(endpoint, values)
             .then((response) => {
                 console.log(response.data);
-                alert("Login went throung")
+                alert("Login went through")
                 alert(response.data.message);
                 setmessage(response.data.message)
                 setisloading(false)
