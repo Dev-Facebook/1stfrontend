@@ -21,7 +21,7 @@ const Alogin = () => {
         // username: username,
         password: password,
     }
-    const endpoint = "http://localhost:5100/log/signup";
+    const endpoint = "https://onest-backend.onrender.com/log/signup";
     let navigate = useNavigate()
 
     const Creatz =(e)=>{
